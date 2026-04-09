@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@callstack/repack": "^5.2.5",
+    "@module-federation/enhanced": "^0.6.10",
     "react": "18.3.1",
     "react-native": "0.76.9"
   },
@@ -17,6 +19,7 @@
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
     "@babel/runtime": "^7.25.0",
+    "@callstack/repack": "^5.2.5",
     "@react-native-community/cli": "15.0.1",
     "@react-native-community/cli-platform-android": "15.0.1",
     "@react-native-community/cli-platform-ios": "15.0.1",
@@ -24,6 +27,8 @@
     "@react-native/eslint-config": "0.76.9",
     "@react-native/metro-config": "0.76.9",
     "@react-native/typescript-config": "0.76.9",
+    "@rspack/core": "^1.7.8",
+    "@swc/helpers": "^0.5.19",
     "@types/react": "^18.2.6",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.6.3",
