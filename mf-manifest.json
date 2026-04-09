@@ -21,7 +21,7 @@
     },
     "globalName": "MiniAppHome",
     "pluginVersion": "0.6.10",
-    "publicPath": "noop:///",
+    "publicPath": "https://singgih20.github.io/mini-app-home/",
     "prefetchInterface": false
   },
   "shared": [
