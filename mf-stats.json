@@ -1,0 +1,437 @@
+{
+  "id": "MiniAppHome",
+  "name": "MiniAppHome",
+  "metaData": {
+    "name": "MiniAppHome",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.1",
+      "buildName": "MiniAppHome"
+    },
+    "remoteEntry": {
+      "name": "MiniAppHome.container.js.bundle",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "MiniAppHome",
+    "pluginVersion": "0.6.10",
+    "publicPath": "noop:///"
+  },
+  "shared": [
+    {
+      "id": "MiniAppHome:@react-native/assets-registry/path-support",
+      "requiredVersion": "^0.76.9",
+      "name": "@react-native/assets-registry/path-support",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:@react-native/assets-registry/registry",
+      "requiredVersion": "^0.76.9",
+      "name": "@react-native/assets-registry/registry",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:@react-native/normalize-colors",
+      "requiredVersion": "^0.76.9",
+      "name": "@react-native/normalize-colors",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:@react-native/virtualized-lists",
+      "requiredVersion": "^0.76.9",
+      "name": "@react-native/virtualized-lists",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/Image/AssetRegistry",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/Image/AssetRegistry",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/Image/AssetSourceResolver",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/Image/AssetSourceResolver",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/NewAppScreen",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/NewAppScreen",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/ReactNative/RendererProxy",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/ReactNative/RendererProxy",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInitializeCore",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/ReactPrivate/ReactNativePrivateInterface",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/StyleSheet/processColor",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/StyleSheet/processColor",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/Libraries/StyleSheet/processColorArray",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/Libraries/StyleSheet/processColorArray",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "id": "MiniAppHome:react-native/src/private/featureflags/ReactNativeFeatureFlags",
+      "requiredVersion": "^0.76.9",
+      "name": "react-native/src/private/featureflags/ReactNativeFeatureFlags",
+      "version": "0.76.9",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^0.76.9",
+      "shareScope": "default",
+      "name": "react-native",
+      "version": "0.76.9",
+      "eager": false,
+      "id": "MiniAppHome:react-native",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./HomeScreen"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "MiniAppHome:react",
+      "assets": {
+        "js": {
+          "async": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "sync": [
+            "MiniAppHome.container.js.bundle",
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./HomeScreen"
+      ]
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./HomeScreen",
+      "id": "MiniAppHome:HomeScreen",
+      "name": "HomeScreen",
+      "requires": [
+        "react-native",
+        "react"
+      ],
+      "file": "src/HomeScreen",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_HomeScreen.chunk.bundle"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}
